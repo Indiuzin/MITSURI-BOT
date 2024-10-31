@@ -26,7 +26,7 @@ Sou apaixonado por tecnologia e programação! Atualmente, estou desenvolvendo b
 
 ### MEU SITES
 
-- **[MITSURI-API](mitsure-api.onrender.com)** - Minha API para integração com WhatsApp e outras funcionalidades.
+- **<a href="mitsure-api.onrender.com">MITSURI-API</a>** - Minha API para integração com WhatsApp e outras funcionalidades.
 
 ---
 
