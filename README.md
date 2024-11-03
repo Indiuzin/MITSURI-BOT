@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/556c798b-555e-4094-84c4-3df4a5b4ed8d" 
-       width="200" height="200" 
+  <img src="https://github.com/user-attachments/assets/f275ecc4-e908-4652-8142-ba2b777e0ad9" 
+       width="1000" height="200" 
        style="border-radius: 50%; border: 1px solid #ff0000;" 
        alt="MITSURI-BOT Logo">
 
